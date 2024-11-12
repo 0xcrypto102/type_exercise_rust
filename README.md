@@ -16,12 +16,6 @@ In this tutorial, you will learn:
 
 ![Map of Types](map-of-types.png)
 
-## Community
-
-You may join skyzh's Discord server and study with the type-exercise community.
-
-[![Join skyzh's Discord Server](https://dcbadge.vercel.app/api/server/ZgXzxpua3H)](https://skyzh.dev/join/discord)
-
 ## See Also...
 
 ### RisingLight
@@ -47,20 +41,6 @@ During writing this tutorial, I found several confusing compile errors from the 
 * https://github.com/rust-lang/rust/issues/93342
 * https://github.com/rust-lang/rust/issues/93340
 
-## Deep Dive Type Exercise Series (in Chinese)
-
-On My Blog:
-* [Part 0 - Part 2](https://www.skyzh.dev/posts/articles/2022-01-22-rust-type-exercise-in-database-executors/)
-* [Part 3 - Part 6](https://www.skyzh.dev/posts/articles/2022-01-24-rust-type-exercise-in-database-executors-middle/)
-* [Part 7](https://www.skyzh.dev/posts/articles/2022-02-01-rust-type-exercise-in-database-executors-final/)
-
-On Zhihu:
-* [Part 0: Intro](https://zhuanlan.zhihu.com/p/460702914)
-* [Part 1: Array and ArrayBuilder](https://zhuanlan.zhihu.com/p/460977012)
-* [Part 2: Scalar and ScalarRef](https://zhuanlan.zhihu.com/p/461405621)
-* [Part 3, 4: TryFrom and Macro Expansion](https://zhuanlan.zhihu.com/p/461657165)
-* [Part 5, 6: Bypassing GAT Compile Errors (or Compiler Bugs?)](https://zhuanlan.zhihu.com/p/461901665)
-* [Part 7: Associate Logical Types with Physical Types](https://zhuanlan.zhihu.com/p/463477290)
 
 ## Day 1: `Array` and `ArrayBuilder`
 
